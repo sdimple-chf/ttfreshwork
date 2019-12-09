@@ -1,6 +1,4 @@
-#itjc8.com 收集整理
-# dailyfresh
-配置环境和项目思路请查看：https://www.cnblogs.com/xiaodaima/p/11245292.html
+# ttfresh
 需求分析
 1.1  用户模块
 1） 注册页
@@ -56,4 +54,4 @@ jieba
 alipay
 requests
 
-配置环境和思路请查看：https://www.cnblogs.com/xiaodaima/p/11245292.html
+
